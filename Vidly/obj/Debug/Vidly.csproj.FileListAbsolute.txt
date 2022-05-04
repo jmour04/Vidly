@@ -171,3 +171,6 @@ D:\GitHub\Vidly\Vidly\obj\Debug\Vidly.dll
 D:\GitHub\Vidly\Vidly\obj\Debug\Vidly.pdb
 D:\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
 D:\GitHub\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+D:\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+D:\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
+D:\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
