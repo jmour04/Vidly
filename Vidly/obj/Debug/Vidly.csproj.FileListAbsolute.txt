@@ -177,3 +177,5 @@ D:\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resourc
 D:\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
 D:\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipName.resources
 D:\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipName.resources
+D:\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddCustomerBirthday.resources
+D:\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateCustomerBirthday.resources

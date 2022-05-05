@@ -199,6 +199,14 @@
     <Compile Include="Migrations\202205051854014_PopulateMembershipName.designer.cs">
       <DependentUpon>202205051854014_PopulateMembershipName.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202205051906376_AddCustomerBirthday.cs" />
+    <Compile Include="Migrations\202205051906376_AddCustomerBirthday.designer.cs">
+      <DependentUpon>202205051906376_AddCustomerBirthday.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202205051910436_UpdateCustomerBirthday.cs" />
+    <Compile Include="Migrations\202205051910436_UpdateCustomerBirthday.designer.cs">
+      <DependentUpon>202205051910436_UpdateCustomerBirthday.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Customer.cs" />
@@ -305,6 +313,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202205051854014_PopulateMembershipName.resx">
       <DependentUpon>202205051854014_PopulateMembershipName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202205051906376_AddCustomerBirthday.resx">
+      <DependentUpon>202205051906376_AddCustomerBirthday.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202205051910436_UpdateCustomerBirthday.resx">
+      <DependentUpon>202205051910436_UpdateCustomerBirthday.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
