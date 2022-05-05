@@ -175,3 +175,5 @@ D:\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resou
 D:\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
 D:\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
 D:\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
+D:\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipName.resources
+D:\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipName.resources
