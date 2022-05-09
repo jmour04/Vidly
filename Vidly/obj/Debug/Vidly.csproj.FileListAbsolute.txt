@@ -179,3 +179,6 @@ D:\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipName.resources
 D:\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipName.resources
 D:\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddCustomerBirthday.resources
 D:\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateCustomerBirthday.resources
+D:\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMovie.resources
+D:\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.Genres.resources
+D:\GitHub\Vidly\Vidly\obj\Debug\Vidly.Migrations.LoadMovies.resources
