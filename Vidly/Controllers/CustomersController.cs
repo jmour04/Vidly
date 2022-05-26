@@ -2,6 +2,7 @@
 using System.Data.Entity;
 using System.Linq;
 using System.Web.Mvc;
+using Antlr.Runtime.Misc;
 using Vidly.Models;
 
 namespace Vidly.Controllers
@@ -17,6 +18,11 @@ namespace Vidly.Controllers
         protected override void Dispose(bool disposing)
         {
             _context.Dispose();
+        }
+
+        public ActionResult New()
+        {
+            return View();
         }
 
         public ViewResult Index()
